@@ -1,0 +1,25 @@
+.square-box{
+   height: 100px;
+   width: 50%;
+   margin:10px;
+}
+.blue{
+    width: 200px;
+    background-color: blue;
+}
+.red{
+    width: 400px;
+    background-color: red;
+}
+.black{
+    width: 600px;
+    background-color: black;
+}
+.orange{
+    width: 800px;
+    background-color: orange;
+}
+.pink{
+    width: 1000px;
+    background-color: pink;
+}
